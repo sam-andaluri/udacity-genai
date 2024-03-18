@@ -1,0 +1,102 @@
+[
+  {
+    "location": "Upper West Side",
+    "list_price": 2100000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "square_feet": 2000,
+    "monthly_hoa": 1200,
+    "school_rating": 4.8,
+    "description": "Luxurious apartment with panoramic views of Central Park. High-end finishes, gourmet kitchen, spacious bedrooms, and a private terrace. Building amenities include a fitness center, concierge service, and rooftop garden. Close to upscale shopping and dining."
+  },
+  {
+    "location": "Park Slope",
+    "list_price": 1500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1500,
+    "monthly_hoa": 800,
+    "school_rating": 4.7,
+    "description": "Charming brownstone in a prime Brooklyn location. Renovated kitchen, original details, hardwood floors, and a backyard garden. Walkable to Prospect Park, trendy cafes, and boutique shops. Easy access to public transportation."
+  },
+  {
+    "location": "Astoria",
+    "list_price": 800000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1000,
+    "monthly_hoa": 500,
+    "school_rating": 4.2,
+    "description": "Modern condo with skyline views, open layout, updated appliances, and a balcony. Building features a gym, outdoor space, and parking. Located in a vibrant neighborhood with diverse dining options and cultural attractions."
+  },
+  {
+    "location": "Harlem",
+    "list_price": 650000,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "square_feet": 1200,
+    "monthly_hoa": 400,
+    "school_rating": 3.9,
+    "description": "Historic brownstone with character, exposed brick, high ceilings, and original hardwood floors. Renovated kitchen and bathrooms. Close to transportation, Harlem's restaurant row, and cultural landmarks."
+  },
+  {
+    "location": "Forest Hills",
+    "list_price": 1200000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "square_feet": 1800,
+    "monthly_hoa": 700,
+    "school_rating": 4.6,
+    "description": "Spacious townhouse with a private backyard, updated kitchen, formal dining room, and finished basement. Located in a tree-lined neighborhood with top-rated schools, parks, and easy access to public transit."
+  },
+  {
+    "location": "Williamsburg",
+    "list_price": 1700000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1600,
+    "monthly_hoa": 900,
+    "school_rating": 4.4,
+    "description": "Modern loft-style condo with industrial accents, high ceilings, oversized windows, and a shared rooftop deck. Close to waterfront parks, artisanal eateries, and eclectic boutiques."
+  },
+  {
+    "location": "Morningside Heights",
+    "list_price": 950000,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "square_feet": 1100,
+    "monthly_hoa": 600,
+    "school_rating": 4.1,
+    "description": "Renovated co-op with skyline views, granite countertops, stainless steel appliances, and hardwood floors. Building amenities include a doorman, laundry room, and bike storage. Steps away from Columbia University, parks, and transportation."
+  },
+  {
+    "location": "Bay Ridge",
+    "list_price": 780000,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1400,
+    "monthly_hoa": 450,
+    "school_rating": 4.3,
+    "description": "Classic brick row house with modern upgrades, sunlit living spaces, hardwood floors, and a backyard oasis. Ideal for outdoor entertaining. Convenient access to local shops, restaurants, and the waterfront promenade."
+  },
+  {
+    "location": "Long Island City",
+    "list_price": 1350000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1300,
+    "monthly_hoa": 750,
+    "school_rating": 4.5,
+    "description": "Sleek condo with floor-to-ceiling windows, a gourmet kitchen, spa-like bathrooms, and a private terrace overlooking the city skyline. Building amenities include a fitness center, lounge, and landscaped garden."
+  },
+  {
+    "location": "Staten Island",
+    "list_price": 620000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1600,
+    "monthly_hoa": 300,
+    "school_rating": 4.0,
+    "description": "Recently renovated single-family home with an updated kitchen, hardwood floors, spacious bedrooms, and a backyard. Quiet residential neighborhood near parks, schools, and shopping centers."
+  }
+]
